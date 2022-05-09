@@ -3,7 +3,17 @@ Various bits of useful information for when something goes wrong
 ## Infotainment reset procedure
 
 Hold down the home button until the display goes completely black. It will reboot after about 10 - 20 seconds
+
 ## TCAM reset procedure
+
+1. Stop the car. Make sure in park.
+2. Hold HOME button on main screen until it does a reset of the infotainment system.
+3. Immediately after the reboot has finished, hold down the front window demist button (the one next to the play/pause button with a curved windscreen shape ... in a right hand drive car this is to the left of play/pause) for at least 15 seconds.
+4. Note: I was counting slowly and got to 30 seconds without an SOS light flashing, before the CS person said to me that’s enough, let go.
+5. Wait patiently a few seconds and hey presto the SoS started flashing. Note it did not start flashing until I had release the button and waited a while.
+6. Once flashing stops, after about another 10-15s the 4G/LTE display started changing. For me it flickered from 4G to LTE, then the empty strength signal changed to full, and then the ‘x’ disappeared and I had full connectivity.
+
+
 ## Enable tow mode process
 ## Battery boost process
 ## Fuse guide
