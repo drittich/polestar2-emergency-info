@@ -1,5 +1,7 @@
-# polestar-emergency-info
+# Polestar Emergency Info
+
 Various bits of useful information for when something goes wrong
+
 ## Infotainment reset procedure
 
 Hold down the home button until the display goes completely black. It will reboot after about 10 - 20 seconds
@@ -26,6 +28,25 @@ Hold down the home button until the display goes completely black. It will reboo
 The vehicle is now in tow mode and can roll freely.
 
 ## Battery boost process
+
+1. Put the vehicle's electrical system in Passive usage mode.
+2. Make sure the assisting battery has a voltage of 12 V.
+3. If the battery is in another vehicle, turn off that vehicle's engine and make sure that the vehicles are not touching each other.
+4. Clamp one end of the red jumper cable onto the assisting battery's positive terminal, often marked in red or with a plus sign (+).
+5. Open the cover over the positive charging point by pressing in its side to release the catch while lifting the cover upward. There are two charging points under the cover. Use the one closest to the center of the vehicle.
+6. Clamp the other end of the red jumper cable to the positive charging point.
+7. Clamp one end of the black jumper cable onto the assisting battery's negative terminal, often marked in black or with a minus sign (-).
+8. Clamp the other end of the black jumper cable to your vehicle's negative charging point. Because the vehicle's chassis serves as ground for the 12 V system, the bolt head marked in the illustration can be used.
+9. Make sure the jumper cables are securely attached to help prevent sparks while jump starting.
+10. Start the engine of the assisting vehicle.
+11. Start the vehicle with the discharged battery by depressing the brake pedal and selecting gear position D or R.
+12. If the high-voltage battery is also discharged, begin charging of the vehicle using the charging cable.
+13. Remove the jumper cables in the reverse order ‒ first the black cables and then the red cables.
+
+Make sure that none of the clamps of the black jumper cables come into contact with the vehicle's positive charging point, the assisting battery's positive terminal or either of the red jumper cable's connected clamps.
+
+![image](https://user-images.githubusercontent.com/1222810/167464833-a5950991-7025-463c-90bd-276225e3fe18.png)
+
 ## Fuse guide
 ![image](https://user-images.githubusercontent.com/1222810/167455377-04a9e6cc-ab51-44af-b7f5-3c75c4840516.png)
 | # | Function | Ampere | Type |
