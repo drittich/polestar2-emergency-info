@@ -15,6 +15,16 @@ Hold down the home button until the display goes completely black. It will reboo
 
 
 ## Enable tow mode process
+
+1. Tap  in the center display.
+2. Tap More.
+3. Tap Car status.
+4. Tap Service.
+5. Select Tow Mode.
+6. Follow the instructions on the screen.
+
+The vehicle is now in tow mode and can roll freely.
+
 ## Battery boost process
 ## Fuse guide
 ![image](https://user-images.githubusercontent.com/1222810/167455377-04a9e6cc-ab51-44af-b7f5-3c75c4840516.png)
