@@ -50,6 +50,13 @@ Make sure that none of the clamps of the black jumper cables come into contact w
 
 ![image](https://user-images.githubusercontent.com/1222810/167464833-a5950991-7025-463c-90bd-276225e3fe18.png)
 
+## Launch Sequence
+
+1. At a stop, double-tap then hold the brake pedal so that the hold (H) function appears. 
+1. Fully depress the accelerator and release the brake within 2 seconds
+
+> Note: May have a better launch with OPD set to off, and Sport Mode on.
+
 ## Fuse Guide
 ![image](https://user-images.githubusercontent.com/1222810/167455377-04a9e6cc-ab51-44af-b7f5-3c75c4840516.png)
 | # | Function | Ampere | Type |
