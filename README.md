@@ -129,3 +129,7 @@ Make sure that none of the clamps of the black jumper cables come into contact w
 | 87 | Wireless mobile charger; USB socket | 7,5 | Micro |
 | 90 | – | – | Micro |
 | 91 | – | – | Micro |
+
+## Silence Car Alarm
+
+TBD
