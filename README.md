@@ -6,11 +6,11 @@ Various bits of useful information for when something goes wrong
 
 Call toll free 1-800-806-2504 or visit online at [Polestar.com/contact](https://Polestar.com/contact). To contact us using Polestar Connect, press the black ‘CONNECT’ button in the ceiling console to connect with us immediately.
 
-## Infotainment Reset Procedure
+## Infotainment Reset
 
 Hold down the home button until the display goes completely black. It will reboot after about 10 - 20 seconds
 
-## TCAM Reset Procedure
+## TCAM Reset
 
 1. Stop the car. Make sure in park.
 2. Hold HOME button on main screen until it does a reset of the infotainment system.
@@ -19,7 +19,7 @@ Hold down the home button until the display goes completely black. It will reboo
 5. Wait patiently a few seconds and hey presto the SoS started flashing. Note it did not start flashing until I had release the button and waited a while.
 6. Once flashing stops, after about another 10-15s the 4G/LTE display started changing. For me it flickered from 4G to LTE, then the empty strength signal changed to full, and then the ‘x’ disappeared and I had full connectivity.
 
-## Enable Tow Mode Procedure
+## Enable Tow Mode
 
 1. Tap the car symbol in the center display.
 2. Tap More.
@@ -30,7 +30,7 @@ Hold down the home button until the display goes completely black. It will reboo
 
 The vehicle is now in tow mode and can roll freely.
 
-## Battery Boost Procedure
+## Battery Boost
 
 1. Put the vehicle's electrical system in Passive usage mode.
 2. Make sure the assisting battery has a voltage of 12 V.
@@ -50,7 +50,7 @@ Make sure that none of the clamps of the black jumper cables come into contact w
 
 ![image](https://user-images.githubusercontent.com/1222810/167464833-a5950991-7025-463c-90bd-276225e3fe18.png)
 
-## Google Assistant Reset Procedure
+## Google Assistant Reset
 
 You can re-initiate the Google Assistant by clearing the app's storage. You do this by following these steps: 
 
