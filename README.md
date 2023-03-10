@@ -50,6 +50,12 @@ Make sure that none of the clamps of the black jumper cables come into contact w
 
 ![image](https://user-images.githubusercontent.com/1222810/167464833-a5950991-7025-463c-90bd-276225e3fe18.png)
 
+## Google Assistant Reset Procedure
+
+You can re-initiate the Google Assistant by clearing the app's storage. You do this by following these steps: 
+
+`Settings -> Apps & Notifications -> Show all Apps -> Google Assistant -> Storage & Cache -> Clear storage`
+
 ## Launch Sequence
 
 1. At a stop, double-tap then hold the brake pedal so that the hold (H) function appears. 
