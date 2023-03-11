@@ -56,6 +56,10 @@ You can re-initiate the Google Assistant by clearing the app's storage. You do t
 
 `Settings -> Apps & Notifications -> Show all Apps -> Google Assistant -> Storage & Cache -> Clear storage`
 
+## Propulsion System Errors
+
+Lock the car and leave it for about 30 minutes, staying far enough away that it does not detect the key. This is often enough to make the car drivable again.
+
 ## Launch Sequence
 
 1. At a stop, double-tap then hold the brake pedal so that the hold (H) function appears. 
