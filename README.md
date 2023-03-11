@@ -52,7 +52,7 @@ Make sure that none of the clamps of the black jumper cables come into contact w
 
 ## Google Assistant Reset
 
-You can re-initiate the Google Assistant by clearing the app's storage. You do this by following these steps: 
+You can re-initialize the Google Assistant by clearing the app's storage. You do this by following these steps: 
 
 `Settings -> Apps & Notifications -> Show all Apps -> Google Assistant -> Storage & Cache -> Clear storage`
 
