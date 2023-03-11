@@ -142,4 +142,4 @@ Lock the car and leave it for about 30 minutes, staying far enough away that it 
 
 ## Silence Car Alarm
 
-TBD
+Place a key into the rear cupholder once inside the car
