@@ -4,7 +4,7 @@ Various bits of useful information for when something goes wrong
 
 ## Polestar Customer Support & Roadside Assistance
 
-Call toll free 1-800-806-2504 or visit online at [Polestar.com/contact](https://Polestar.com/contact). To contact us using Polestar Connect, press the black ‘CONNECT’ button in the ceiling console to connect with us immediately.
+To contact Roadside Assistance using Polestar Connect, press the black ‘CONNECT’ button in the ceiling console. Toll free numbers can be found at [https://www.polestar.com/en/service-and-assistance/roadside-assistance/](https://www.polestar.com/en/service-and-assistance/roadside-assistance/)
 
 ## Infotainment Reset
 
