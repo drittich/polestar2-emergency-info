@@ -19,16 +19,19 @@ Hold down the home button until the display goes completely black. It will reboo
 5. Wait patiently a few seconds and hey presto the SoS started flashing. Note it did not start flashing until I had release the button and waited a while.
 6. Once flashing stops, after about another 10-15s the 4G/LTE display started changing. For me it flickered from 4G to LTE, then the empty strength signal changed to full, and then the ‘x’ disappeared and I had full connectivity.
 
-## Enable Tow Mode
+## Silence Car Alarm
 
-1. Tap the car symbol in the center display.
-2. Tap More.
-3. Tap Car status.
-4. Tap Service.
-5. Select Tow Mode.
-6. Follow the instructions on the screen.
+Place a key into the rear cupholder once inside the car
 
-The vehicle is now in tow mode and can roll freely.
+## Google Assistant Reset
+
+You can re-initialize the Google Assistant by clearing the app's storage. You do this by following these steps: 
+
+`Settings -> Apps & Notifications -> Show all Apps -> Google Assistant -> Storage & Cache -> Clear storage`
+
+## Propulsion System Errors
+
+Lock the car and leave it for about 30 minutes, staying far enough away that it does not detect the key. This is often enough to make the car driveable again.
 
 ## Battery Boost
 
@@ -50,22 +53,16 @@ Make sure that none of the clamps of the black jumper cables come into contact w
 
 ![image](https://user-images.githubusercontent.com/1222810/167464833-a5950991-7025-463c-90bd-276225e3fe18.png)
 
-## Google Assistant Reset
+## Enable Tow Mode
 
-You can re-initialize the Google Assistant by clearing the app's storage. You do this by following these steps: 
+1. Tap the car symbol in the center display.
+2. Tap More.
+3. Tap Car status.
+4. Tap Service.
+5. Select Tow Mode.
+6. Follow the instructions on the screen.
 
-`Settings -> Apps & Notifications -> Show all Apps -> Google Assistant -> Storage & Cache -> Clear storage`
-
-## Propulsion System Errors
-
-Lock the car and leave it for about 30 minutes, staying far enough away that it does not detect the key. This is often enough to make the car drivable again.
-
-## Launch Sequence
-
-1. At a stop, double-tap then hold the brake pedal so that the hold (H) function appears. 
-1. Fully depress the accelerator and release the brake within 2 seconds
-
-> Note: May have a better launch with OPD set to off, and Sport Mode on.
+The vehicle is now in tow mode and can roll freely.
 
 ## Fuse Guide
 ![image](https://user-images.githubusercontent.com/1222810/167455377-04a9e6cc-ab51-44af-b7f5-3c75c4840516.png)
@@ -139,7 +136,3 @@ Lock the car and leave it for about 30 minutes, staying far enough away that it 
 | 87 | Wireless mobile charger; USB socket | 7,5 | Micro |
 | 90 | – | – | Micro |
 | 91 | – | – | Micro |
-
-## Silence Car Alarm
-
-Place a key into the rear cupholder once inside the car
