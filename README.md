@@ -12,12 +12,10 @@ Hold down the home button until the display goes completely black. It will reboo
 
 ## TCAM Reset
 
-1. Stop the car. Make sure in park.
-2. Hold HOME button on main screen until it does a reset of the infotainment system.
+1. Stop the car and make sure it's in park.
+2. Hold HOME button on the main screen until it does a reset of the infotainment system (see ablve).
 3. Immediately after the reboot has finished, hold down the front window demist button (the one next to the play/pause button with a curved windscreen shape ... in a right hand drive car this is to the left of play/pause) for at least 15 seconds.
-4. Note: I was counting slowly and got to 30 seconds without an SOS light flashing, before the CS person said to me that’s enough, let go.
-5. Wait patiently a few seconds and hey presto the SoS started flashing. Note it did not start flashing until I had release the button and waited a while.
-6. Once flashing stops, after about another 10-15s the 4G/LTE display started changing. For me it flickered from 4G to LTE, then the empty strength signal changed to full, and then the ‘x’ disappeared and I had full connectivity.
+4. Wait patiently a few seconds until the SOS starts flashing.
 
 ## Silence Car Alarm
 
@@ -66,6 +64,7 @@ The vehicle is now in tow mode and can roll freely.
 
 ## Fuse Guide
 ![image](https://user-images.githubusercontent.com/1222810/167455377-04a9e6cc-ab51-44af-b7f5-3c75c4840516.png)
+
 | # | Function | Ampere | Type |
 | - | - | - | - |
 | 1 | Audio control device (amplifier)	 | 0 | MCase |
