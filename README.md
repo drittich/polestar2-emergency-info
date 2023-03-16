@@ -19,7 +19,7 @@ Hold down the home button until the display goes completely black. It will reboo
 
 ## Silence Car Alarm
 
-Place a key into the rear cupholder once inside the car
+Place a key fob (not the activity key) into the cupholder under the central arm rest.
 
 ## Google Assistant Reset
 
