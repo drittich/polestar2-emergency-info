@@ -1,19 +1,21 @@
 # Polestar Emergency Info
 
-Various bits of useful information for when something goes wrong
+Various bits of useful information for when something goes wrong.
 
 ## Polestar Customer Support & Roadside Assistance
 
-To contact Roadside Assistance using Polestar Connect, press the black ‘CONNECT’ button in the ceiling console. Toll free numbers can be found at [https://www.polestar.com/en/service-and-assistance/roadside-assistance/](https://www.polestar.com/en/service-and-assistance/roadside-assistance/)
+To contact Roadside Assistance using Polestar Connect, press the black ‘CONNECT’ button in the ceiling console. Toll free numbers can be found at [https://www.polestar.com/en/service-and-assistance/roadside-assistance/](https://www.polestar.com/en/service-and-assistance/roadside-assistance/).
 
 ## Infotainment Reset
 
-Hold down the home button until the display goes completely black. It will reboot after about 10 - 20 seconds
+Hold down the home button until the display goes completely black. It will reboot after about 10 - 20 seconds.
 
 ## TCAM Reset
 
+The TCAM is the telecommunications module that provides network and radio services for Internet (3G/4G/LTE), Wifi, GPS, Bluetooth, and keys. If any of these features are malfunctioning, you can try to reset your TCAM:
+
 1. Stop the car and make sure it's in park.
-2. Hold HOME button on the main screen until it does a reset of the infotainment system (see ablve).
+2. Hold HOME button on the main screen until it does a reset of the infotainment system (see above).
 3. Immediately after the reboot has finished, hold down the front window demist button (the one next to the play/pause button with a curved windscreen shape ... in a right hand drive car this is to the left of play/pause) for at least 15 seconds.
 4. Wait patiently a few seconds until the SOS starts flashing.
 
@@ -34,7 +36,7 @@ Lock the car and leave it for about 30 minutes, staying far enough away that it 
 ## Battery Boost
 
 1. Put the vehicle's electrical system in Passive usage mode.
-2. Make sure the assisting battery has a voltage of 12 V.
+2. Make sure the assisting battery has a voltage of 12V.
 3. If the battery is in another vehicle, turn off that vehicle's engine and make sure that the vehicles are not touching each other.
 4. Clamp one end of the red jumper cable onto the assisting battery's positive terminal, often marked in red or with a plus sign (+).
 5. Open the cover over the positive charging point by pressing in its side to release the catch while lifting the cover upward. There are two charging points under the cover. Use the one closest to the center of the vehicle.
