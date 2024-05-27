@@ -64,6 +64,13 @@ Make sure that none of the clamps of the black jumper cables come into contact w
 
 The vehicle is now in tow mode and can roll freely.
 
+## Manual Charge Cable Release (Level 1 or 2 only!)
+
+If the lock motor fails to release during level 1 or 2 charging, the cable can be removed through a manual actuation of the lock motor. To release the cable:
+1. Use a T30 torx or blunt screwdriver and gently depress the cable lock motor located on the top of the charging
+cable connector.
+2. Once the motor is released, press the cable lock lever and remove the charge cable from the vehicle.
+
 ## Fuse Guide
 ![image](https://user-images.githubusercontent.com/1222810/167455377-04a9e6cc-ab51-44af-b7f5-3c75c4840516.png)
 
