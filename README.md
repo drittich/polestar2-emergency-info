@@ -1,4 +1,4 @@
-# Polestar Emergency Info
+# Polestar 2 Emergency Info
 
 Various bits of useful information for when something goes wrong.
 
